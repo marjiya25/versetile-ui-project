@@ -23,9 +23,7 @@
     background-color: rgba(230, 83, 60, 1);
     align-items: center;
 }
-.praimary-btn-2{
-     padding: 20px;
-}
+
 /* navbar */
 .navbar{
     justify-content: space-between;
@@ -93,6 +91,29 @@
         border-radius: 40px;
         background-color: rgb(12, 12, 12);
         border-color: 2px solid white;
+   }
+   .relative-box-1{
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color:rgba(48, 48, 48, 0.54) ;
+    backdrop-filter: blur(10px);
+    width: 40%;
+    height: 13%;
+    text-align: center;
+
+   }
+   
+   .relative-box-2{
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color:rgba(48, 48, 48, 0.54) ;
+    backdrop-filter: blur(10px);
+    width: 40%;
+    height: 15%%;
+    text-align: center;
+
    }
 /* fotter */
 /* media query */
